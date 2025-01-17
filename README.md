@@ -13,8 +13,7 @@ WiFi sniffers come in two flavors: hardware and software. This is a Python progr
 3. Run `wifi_sniffer.py` as root.
 
 ## Images
-<center>![image](https://github.com/user-attachments/assets/307850e6-8e89-4417-bf55-d51d21787177)</center>
-
+![image](https://github.com/user-attachments/assets/307850e6-8e89-4417-bf55-d51d21787177)
 
 ## Disclaimer
 Everything was tested under my network. Use this for your own use and I'll not be responsible.
